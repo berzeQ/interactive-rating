@@ -6,7 +6,7 @@ body {
 }
 
 .logo {
-    background-image: url('./images/icon-star.svg');
+    background-image: url('./icon-star.svg');
     background-repeat: no-repeat;
     background-position: center;
     color: hsl(25, 97%, 53%);
@@ -109,7 +109,7 @@ button {
 }
 
 .logo1 {
-    background: url('./images/illustration-thank-you.svg');
+    background: url('./illustration-thank-you.svg');
     color: hsl(25, 97%, 53%);
     height: 200px;
     width: 200px;

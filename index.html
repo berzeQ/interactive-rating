@@ -101,7 +101,7 @@
     rates.forEach((rate) => {
       rate.addEventListener("click", e => {
         console.log(e.target.innerText);
-        result.innerHTML = ` You selected ${e.target.innerText} out of 5`
+        result.textContent = ` You selected ${e.target.innerText} out of 5`
       });
     })
 
